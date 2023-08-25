@@ -1,0 +1,27 @@
+/* .first-row{
+  display: flex;
+  flex-direction: row;
+}
+.second-row{
+  display: flex;
+  flex-direction: row;
+} */
+form{
+
+  background-color: white;
+  margin:10%;
+  padding: 5%;
+  border-radius: 40px;
+
+
+}
+
+body{
+  font-family: sans-serif;
+  background-image: url("earth.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+
